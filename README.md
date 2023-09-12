@@ -1,6 +1,6 @@
 # Build a virtual machine 
 
-1: Clome the repository to have all the scripts and files available to use
+1: Clone the repository to have all the scripts and files available to use
 
 2: Make sure you have the needed local ISO files available. In this example they are in the /ISO/  folder.
 
